@@ -32486,7 +32486,7 @@ var $async$nc=P.a7(function(d,e){if(d===1)return P.a8(e,r)
 while(true)switch(s){case 0:p=new O.oO(P.aL(t.sZ))
 o=t.R
 s=3
-return P.a6(p.je("PATCH",P.ld(C.c6,"https://alex-transport.firebaseio.com/"+b+".json",C.B,!1),P.ax(["content-type","application/json"],o,o),C.aE.f0(c),null).ds(new D.LO(p)),$async$nc)
+return P.a6(p.je("PATCH",P.ld(C.c6,"https://daily-prise.firebaseio.com/"+b+".json",C.B,!1),P.ax(["content-type","application/json"],o,o),C.aE.f0(c),null).ds(new D.LO(p)),$async$nc)
 case 3:n=e
 P.jA(B.a6u(U.a60(n.e).c.a.h(0,"charset")).c1(0,n.x))
 q=n
